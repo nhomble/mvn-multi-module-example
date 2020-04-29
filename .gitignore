@@ -1,0 +1,3 @@
+# Project exclude paths
+/my-application/target/
+/my-server-api/target/
